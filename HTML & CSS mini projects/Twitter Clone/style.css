@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #173650;
+
+}
+
+header {
+
+    height: 7.5vh;
+
+}
+
+main {
+
+    margin: auto;
+    height: 85vh;
+    width: 40vw;
+    background-color: black;
+    border-radius: 13px;
+
+
+}
+
+.picture img {
+    margin-top: 1vw;
+    width: auto;
+    height: 28px;
+
+}
+
+.picture {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    height: 30vw;
+    background-color: black;
+    margin: 2vw 8vw;
+    padding: 1vw;
+
+
+}
+
+.card h1 {
+    color: white;
+
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+
+}
+
+.google {
+    margin: 2vw 0 .5vw 0;
+    padding: .75vw;
+    color: grey;
+    background-color: aliceblue;
+    border-style: solid;
+    border-radius: 18px;
+}
+
+.apple {
+    margin: .5vw 0 1.5vw 0;
+    padding: .75vw;
+    color: black;
+    background-color: aliceblue;
+    border-style: solid;
+    border-radius: 18px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.content input {
+    margin: 1.5vw 0;
+    padding: 1.25vw;
+    background-color: black;
+    color: white;
+}
+
+.btn {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+
+}
+
+.next {
+    margin: .5vw 0;
+    padding: .75vw;
+    border-style: solid;
+    border-radius: 18px;
+
+}
+
+.fp {
+    margin: .5vw 0;
+    padding: .75vw;
+    background-color: black;
+    color: white;
+    border-style: solid;
+    border-radius: 18px;
+}
+
+.item p {
+    margin: 2.5vw 0;
+    padding: .5vw;
+    color: grey;
+}

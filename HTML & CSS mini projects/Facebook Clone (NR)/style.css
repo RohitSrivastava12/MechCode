@@ -1,0 +1,141 @@
+h1 {
+    color: #1877f2;
+    position: relative;
+    left: 350px;
+    top: 160px;
+    font-size: 55px;
+    font-weight: 800;
+}
+
+body {
+    background-color: #f0f2f5;
+}
+
+.Header h1 {
+    height: 35px;
+
+}
+
+.l1 {
+    position: relative;
+    left: 350px;
+    top: 160px;
+    font-size: x-large;
+
+}
+
+.main {
+    background-color: #fff;
+    height: 305px;
+    width: 400px;
+    border-radius: 6px;
+    position: relative;
+    left: 850px;
+    bottom: 70px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+
+
+}
+
+
+input {
+
+    padding: 10px;
+    margin: 10px 10px 10px 13px;
+    border-radius: 6px;
+    border-color: rgb(118, 118, 118);
+    border: 1px;
+    border-style: inset;
+
+}
+
+input[type=text]:focus {
+    outline: 1px solid #1877f2;
+}
+
+input[type=password]:focus {
+    outline: 1px solid #1877f2;
+}
+
+.Content input {
+    width: 350px;
+    margin-top: 20px;
+}
+
+.Content2 input {
+    width: 350px;
+}
+
+
+
+a {
+    color: #1877f2;
+    margin: 10px;
+    padding: 10px;
+    border: 5px;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.link {
+    text-align: center;
+    margin-top: 3px;
+}
+
+hr {
+    display: block;
+    margin-top: 15px;
+    unicode-bidi: isolate;
+    margin-inline-start: 13px;
+    margin-inline-end: 13px;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.Login {
+    color: white;
+    width: 374px;
+    background-color: #1877f2;
+    margin: 10px 10px 10px 13px;
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px;
+    border-style: inset;
+    font-size: medium;
+
+}
+
+.Login:hover {
+    background-color: #0d5ec8;
+}
+
+.NewAccount {
+    color: white;
+    background-color: #42b72a;
+    text-align: center;
+    margin: 10px;
+    padding: 12px;
+    border-radius: 6px;
+    border: 1px;
+    border-style: inset;
+    font-size: medium;
+}
+
+.NewAccount:hover {
+    background-color: #27a10e;
+}
+
+.center p {
+    padding: 10px;
+    text-align: center;
+    margin-top: 15px;
+
+}
+
+.center {
+    margin-top: 25px;
+}
